@@ -224,7 +224,7 @@
   width: 867px;
   height: 637px;
   position: absolute;
-  left 0;
+  left: 0;
   bottom: 0;
   z-index: 0;
 }
@@ -363,5 +363,7 @@
 }
 
 .footer__social-icon {
+  width: 16px;
+  height: 16px;
   margin-right: 10px;
 }
